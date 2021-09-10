@@ -34,6 +34,7 @@ The number of the Figures does not necessarily correspond to the number in the a
 
 [<img src="img/fig3_correlations_1979-2014.jpg" alt="Figure 4" width="300"/>](fig3_s3_correlations.ipynb)
 [<img src="img/figS3_correlations_GPCP_1979-2014.jpg" alt="Figure C1" width="300"/>](fig3_s3_correlations.ipynb)
+
 [<img src="img/fig3_seasonal_correlations_HK_1979-2014.jpg" alt="Figure C2" width="300"/>](fig3_s3_correlations-zones.ipynb)
 [<img src="img/fig3_seasonal_correlations_TP_1979-2014.jpg" alt="Figure C3" width="300"/>](fig3_s3_correlations-zones.ipynb)
 
@@ -52,8 +53,10 @@ The number of the Figures does not necessarily correspond to the number in the a
 
 [<img src="img/fig6_seasonal-trends_1979-2014_v2_80.jpg" alt="Figure 7" width="300"/>](fig6-7_S4-6_seasonal-trends.ipynb)
 [<img src="img/figS4_tas_obs_seasonal-trends_1979-2014_v2_80.jpg" alt="Figure D1" width="300"/>](fig6-7_S4-6_seasonal-trends.ipynb)
+
 [<img src="img/figS5_snc_obs_seasonal-trends_1979-2014_v2_80.jpg" alt="Figure D2" width="300"/>](fig6-7_S4-6_seasonal-trends.ipynb)
 [<img src="img/figS6_pr_obs_seasonal-trends_1979-2014_v2_80.jpg" alt="Figure D3" width="300"/>](fig6-7_S4-6_seasonal-trends.ipynb)
+
 [<img src="img/fig7_trends-vs-bias_1979-2014_v2.jpg" alt="Figure 8" width="300"/>](fig6-7_S4-6_seasonal-trends.ipynb)
 
 
