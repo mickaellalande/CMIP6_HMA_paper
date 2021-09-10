@@ -1,0 +1,24 @@
+name: phd_v3
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - esmpy
+  - xesmf
+  - dask
+  - jupyter
+  - netcdf4
+  - proplot
+  - nodejs[version='>=10.0']
+  - intake-esm
+  - matplotlib=3.2
+  - cartopy
+  - python-graphviz
+  - nb_conda_kernels
+  - nbresuse
+  - black
+  - isort
+  - nc-time-axis
+  - jupyterlab
+prefix: /data/mlalande/miniconda3/envs/phd_v3
+
